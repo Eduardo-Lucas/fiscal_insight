@@ -1,6 +1,3 @@
-Certainly, Edu! Here's a **clean, professional, and well-structured `README.md`** for your Django project: **Fiscal Insight**. It's designed to make the repo presentation-ready for stakeholders, collaborators, or recruiters.
-
----
 
 ````markdown
 # 📊 Fiscal Insight
